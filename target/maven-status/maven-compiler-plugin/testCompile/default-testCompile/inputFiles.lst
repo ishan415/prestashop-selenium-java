@@ -1,0 +1,15 @@
+D:\Campus\Intern\prestashop-selenium-java\prestashop-selenium-java\src\test\java\com\prestashop\base\BasePage.java
+D:\Campus\Intern\prestashop-selenium-java\prestashop-selenium-java\src\test\java\com\prestashop\base\BaseTest.java
+D:\Campus\Intern\prestashop-selenium-java\prestashop-selenium-java\src\test\java\com\prestashop\pages\CartPage.java
+D:\Campus\Intern\prestashop-selenium-java\prestashop-selenium-java\src\test\java\com\prestashop\pages\CheckoutPage.java
+D:\Campus\Intern\prestashop-selenium-java\prestashop-selenium-java\src\test\java\com\prestashop\pages\ClothesPage.java
+D:\Campus\Intern\prestashop-selenium-java\prestashop-selenium-java\src\test\java\com\prestashop\pages\HomePage.java
+D:\Campus\Intern\prestashop-selenium-java\prestashop-selenium-java\src\test\java\com\prestashop\pages\ProductPage.java
+D:\Campus\Intern\prestashop-selenium-java\prestashop-selenium-java\src\test\java\com\prestashop\pages\SearchResultsPage.java
+D:\Campus\Intern\prestashop-selenium-java\prestashop-selenium-java\src\test\java\com\prestashop\tests\DiscountFilterTest.java
+D:\Campus\Intern\prestashop-selenium-java\prestashop-selenium-java\src\test\java\com\prestashop\tests\EndToEndShoppingFlowTest.java
+D:\Campus\Intern\prestashop-selenium-java\prestashop-selenium-java\src\test\java\com\prestashop\tests\InvalidEmailValidationTest.java
+D:\Campus\Intern\prestashop-selenium-java\prestashop-selenium-java\src\test\java\com\prestashop\tests\MinimumQuantityBoundaryTest.java
+D:\Campus\Intern\prestashop-selenium-java\prestashop-selenium-java\src\test\java\com\prestashop\tests\StockLimitBoundaryTest.java
+D:\Campus\Intern\prestashop-selenium-java\prestashop-selenium-java\src\test\java\com\prestashop\tests\TermsCheckboxValidationTest.java
+D:\Campus\Intern\prestashop-selenium-java\prestashop-selenium-java\src\test\java\com\prestashop\tests\UnavailableProductSearchTest.java

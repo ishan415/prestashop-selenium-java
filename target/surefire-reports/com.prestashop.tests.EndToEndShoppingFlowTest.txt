@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.prestashop.tests.EndToEndShoppingFlowTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 46.55 s -- in com.prestashop.tests.EndToEndShoppingFlowTest
